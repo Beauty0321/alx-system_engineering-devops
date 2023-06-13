@@ -1,0 +1,13 @@
+le entering the syntax
+
+task 7 shell redirection
+
+#!/bin/bash
+echo "Best School" | cat > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
+
+
+task 24 shell redirection
+
+#!/bin/bash
+find -type f -name "*.gif" | rev | cut -d "/" -f 1 | cut -d . -f 2- | rev | LC_ALL=C sort -
+f
